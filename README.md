@@ -220,6 +220,11 @@ stellar contract invoke \
 
 ---
 
+### Smart Contract Link:
+[https://stellar.expert/explorer/testnet/contract/CC47MFMXFNPMQUCJHYJZK3S2YE3T5BGVFVVRDYEAK6YPT4HZAIQD353C]
+
+![alt text](<Screenshot 2026-04-18 162328.png>)
+
 ## License
 
 MIT © 2025 SplitWork Contributors
